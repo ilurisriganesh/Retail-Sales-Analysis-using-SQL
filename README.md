@@ -1,5 +1,5 @@
 # 📊 Retail Sales Analysis using SQL
-
+“Focused on SQL-based data extraction, transformation, and analysis”
 ## 👤 Author  
 **SRI GANESH I**
 
